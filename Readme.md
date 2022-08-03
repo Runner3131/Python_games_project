@@ -19,3 +19,7 @@ XxFreeLancerxX
 
 Timothy Jarvis- Founder of Student Cloud Computing Projects.
 WHere we help everyone advance towards the clouds. If your interested in helping or joinning in any way, please get in touch with me. tjarvis0015@kctcs.edu we need whatever you can do or give. and we get free resources from free extra time with the cloud providers, to pro coding IDE for free. and alot more.
+
+I have added a ebook folder, It was by mistake, but maybe  it will help someone that comes along.
+
+Thank you for taking a look, and thanks if you added to or are going to add to the project. mainly to help other people learn. even myself. there are a few game projects that do not work right, if you want to take a look head over to the issues tab. Also you can add programs in any programming lanaguage, i just did these in python, but more are to come in JS, and Kotlin.
